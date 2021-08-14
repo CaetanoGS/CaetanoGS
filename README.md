@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/CaetanoGS/CaetanoGS">
-  <img height='100em' src="https://github-readme-stats.vercel.app/api?username=caetanogs&show_icons=true&theme=dracula">
-    </div>
+  <img height='200em' src="https://github-readme-stats.vercel.app/api?username=caetanogs&show_icons=true&theme=dracula">
+  <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanogs&layout=compact&langs_count=16&theme=dracula">
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Caetano-JS" height="30" width="40" src="">
+</div>
