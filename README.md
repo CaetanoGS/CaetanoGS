@@ -1,7 +1,7 @@
 ### Hi, my name is Gustavo 🚀
 
 - 🔭 I’m currently working on Multipass connection between SAP CDC and Shopify e-commerce and DRF as a backend API
-- 🌱 I’m currently learning NodeJS, DRF and SAP CDC
+- 🌱 I’m currently learning NodeJS, Django Rest Framework, SAP CDC and Docker
 - 📫 How to reach me: CaetanooG@hotmail.com
 
 <div>
@@ -16,6 +16,7 @@
   <img align="center" alt="Caetano-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caetano-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caetano-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Caetano-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
   
   ##
