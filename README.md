@@ -1,6 +1,6 @@
 ### Hi, my name is Gustavo 🚀
 
-- 🔭 I’m currently working on Multipass connection between SAP CDC and Shopify e-commerce 
+- 🔭 I’m currently working on Multipass connection between SAP CDC and Shopify e-commerce and DRF as a backend API
 - 🌱 I’m currently learning NodeJS, DRF and SAP CDC
 - 📫 How to reach me: CaetanooG@hotmail.com
 
