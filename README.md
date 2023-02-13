@@ -1,9 +1,10 @@
 ### Hi, my name is Gustavo 🚀
 
-- 🔭 I’m currently working on Multipass connection between SAP CDC and Shopify e-commerce and DRF as a backend API
-- 🌱 I’m currently learning NodeJS, Django Rest Framework, and Docker
+- 🔭 I’m currently working on intergration between different systems with the company product
+- 🌱 I’m currently learning React, Django Rest Framework, FastAPI and Docker
 - 📫 How to reach me: CaetanooG@hotmail.com
 - 📝 My articles: https://medium.com/@caetanoog
+- 📹 Youtube channel: https://www.youtube.com/channel/UC9OnHJAOtDiKRh-RdGIB7XA
 
 <div>
   <a href="https://github.com/CaetanoGS/CaetanoGS">
